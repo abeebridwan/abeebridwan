@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abeebridwan
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in tech and businesses
+- 💞️ I’m looking to collaborate on tech and business related
+- 📫 How to reach me -- olumideuae@gmail.com
 
 <!---
 abeebridwan/abeebridwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
